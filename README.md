@@ -58,12 +58,6 @@ python3 hacker-rain.py
 Controls
 ESC: Exit the application
 
-F11: Toggle fullscreen mode (if supported)
-
-+/-: Adjust falling speed
-
-[/]: Adjust rain density
-
 Platform Compatibility
 ✅ Linux
 
