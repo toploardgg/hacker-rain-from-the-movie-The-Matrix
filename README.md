@@ -41,7 +41,7 @@ Installation
 Clone the repository or download the source code:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/toploardgg/hacker-rain>
 cd hacker-rain
 Install required dependencies:
 ```
