@@ -1,7 +1,8 @@
 # hacker-rain
-Matrix movie hacker rain that opens in fullscreen (Borderless Window) rain with 0s and 1s (binary code)
 [![Python3.8.10](https://img.shields.io/badge/Python-3.8.10-green.svg?style=flat-square)](https://www.python.org/downloads/release/python-2714/)
 ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20Windows-yellowgreen.svg?style=flat-square) 
+
+Matrix movie hacker rain that opens in fullscreen (Borderless Window) rain with 0s and 1s (binary code)
 The code runs on Python3. Toploardgg or I do not take responsibility for errors in the code or the repository in Python 3, and especially in other versions of Python. I suggest running it with Python 3. The code was written only by Toploardgg. I do not allow publishing under my name or without crediting the author.
 
 WARNING.
