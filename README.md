@@ -48,13 +48,13 @@ Install required dependencies:
 ```
 
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 Usage
 Run the application with:
 
 ```bash
-python3 hacker-rain.py
+python hacker-rain.py
 ```
 Controls
 ESC: Exit the application
